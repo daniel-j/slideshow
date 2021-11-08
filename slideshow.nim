@@ -1,4 +1,4 @@
-import sdl2/sdl, sdl2/sdl_image as image
+import sdl2_nim/sdl, sdl2_nim/sdl_image as image
 import strutils, os, times, math
 import easings
 import ./perflogger
